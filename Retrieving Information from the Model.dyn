@@ -3,7 +3,7 @@
   "IsCustomNode": false,
   "Description": "",
   "Name": "Retrieving information from the model",
-  "ElementResolver": {
+  "ElementResolver": {https://github.com/mohammadali-khazen/RTLS-Integration-with-BIM/blob/main/Retrieving%20information%20from%20the%20model.dyn
     "ResolutionMap": {
       "List": {
         "Key": "List",
